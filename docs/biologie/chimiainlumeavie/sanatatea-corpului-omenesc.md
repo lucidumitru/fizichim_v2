@@ -85,7 +85,7 @@ Un deficit de proteine poate duce la apariția insomniei, a stărilor depresive 
 :::
 
 
-:::warning Atenție!
+:::warning Atenție!!
 
 
 O alimentație care depășește cu mult și constant valorile indicate de specialiști poate duce:
@@ -117,7 +117,7 @@ Adulții au nevoie de 0,83 g per kilogram de greutate corporală, zilnic.
 
 :::
 
-
+<br></br>
 
 **Surse de proteine:**
 
