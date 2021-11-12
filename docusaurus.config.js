@@ -3,13 +3,37 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const math = require('remark-math');
+const katex = require('rehype-katex');
+
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  plugins: [
+    '@aldridged/docusaurus-plugin-lunr',
+//     [require.resolve('@cmfcmf/docusaurus-search-local'),{
+//         // Options here
+//         language: "ro" // language of your documentation, see next section
+//     }]
+
+    [require.resolve('docusaurus-lunr-search'),
+      {
+        languages: ['ro', 'ro'], // language codes,
+        indexBaseUrl: true
+      },
+    ],
+
+
+  ],
+
+
+
+
   title: 'Fizichim',
   tagline: 'Invăţăm prin experimente',
   url: 'https://lucidumitru.github.io',
-  baseUrl: '/fizichim_v2/',
+  baseUrl: '/fizichim_v2/', // link pentru productie
+/**  baseUrl: '/', // link local */
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -25,6 +49,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
         },
         blog: {
           showReadingTime: true,
@@ -38,6 +64,14 @@ const config = {
       }),
     ],
   ],
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css',
+      integrity:
+          'sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc',
+      crossorigin: 'anonymous',
+    },
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -47,6 +81,8 @@ const config = {
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
+          width: 32,
+          height: 32,
         },
         items: [
           {
