@@ -43,14 +43,11 @@ const config = {
 
   ],
 
-
-
-
   title: 'Fizichim',
   tagline: 'Invăţăm prin experimente',
   url: 'https://lucidumitru.github.io',
   baseUrl: '/fizichim_v2/', // link pentru productie
-/**  baseUrl: '/', // link local */
+/*  baseUrl: '/', // link local */
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -78,6 +75,13 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        sitemap: {
+          cacheTime: 600 * 1000, // 600 sec - cache purge period
+          changefreq: 'weekly',
+          priority: 0.5,
+        },
+
+
       }),
     ],
   ],
@@ -107,24 +111,29 @@ const config = {
             position: 'right',
           },
 
-          {
+/*          {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
+          }, */
+
+/*         {to: '/blog', label: 'Blog', position: 'left'}, */
+
+/*          {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          },
+          }, */
+
+         {to: '/docs/biologie/fizicainlumeavie/miscarea-si-parghiile', label: 'Aplicațiile Fizicii și Chimiei în Biologie', position: 'left'},
+
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          {
+/*          {
             title: 'Docs',
             items: [
               {
@@ -132,8 +141,9 @@ const config = {
                 to: '/docs/intro',
               },
             ],
-          },
-          {
+          }, */
+
+/*          {
             title: 'Community',
             items: [
               {
@@ -149,8 +159,9 @@ const config = {
                 href: 'https://twitter.com/docusaurus',
               },
             ],
-          },
-          {
+          }, */
+
+/*          {
             title: 'More',
             items: [
               {
@@ -162,9 +173,53 @@ const config = {
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
+          }, */
+
+          {
+            title: 'Invăţare uşoară',
+            items: [
+/*              {
+                label: 'Invăţarea uşoară a fizicii',
+                to: '/docs/fizica/clasa6/fizica-clasa6-capitolul1',
+              }, */
+/*              {
+                label: 'Invăţarea uşoară a chimiei',
+                to: '/docs/chimie/clasa7/chimie-clasa7-capitolul1',
+              }, */
+              {
+                label: 'Aplicațiile Fizicii și Chimiei în Biologie',
+                to: '/docs/biologie/fizicainlumeavie/miscarea-si-parghiile',
+              },
+            ],
           },
+          {
+            title: 'Comunitate',
+            items: [{
+              label: 'Facebook',
+              href: 'https://www.facebook.com/fizichim',
+            },
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/fizichim',
+              },
+            ],
+          },
+          {
+            title: 'Donații',
+            items: [{
+              label: 'Dă click aici pentru a dona prin Revolut',
+              to: 'https://revolut.me/iuliadumitru',
+//                            label: 'Blog',
+//                            to: 'blog',
+            },
+            ],
+          },
+
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Dumitru Elena-Daniela: Fizichim vers2. Built with Docusaurus.`,
+/*        copyright: `Copyright © ${new Date().getFullYear()} Dumitru Elena-Daniela: Fizichim vers2. Built with Docusaurus.`, */
+
+        copyright: `Copyright © ${new Date().getFullYear()} Dumitru Elena-Daniela: Invățarea ușoară a fizicii și chimiei. Donații poți face în contul: RO79 BREL 0005 5015 6588 0100`,
+
       },
       prism: {
         theme: lightCodeTheme,
