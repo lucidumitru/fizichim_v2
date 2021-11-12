@@ -36,19 +36,16 @@ export default function Home() {
       <main>
         <HomepageFeatures />
       </main>
+    </Layout>,
+    <Layout>
+        <h1 style={{margin: 20}}>
+            <Translate description="The homepage main heading">
+                Welcome to my Docusaurus translated site!
+            </Translate>
+        </h1>
     </Layout>
-  );
+
+);
 }
 
 
-export default function Home() {
-    return (
-        <Layout>
-            <h1 style={{margin: 20}}>
-                <Translate description="The homepage main heading">
-                    Welcome to my Docusaurus translated site!
-                </Translate>
-            </h1>
-        </Layout>
-    );
-}
