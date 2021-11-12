@@ -9,6 +9,23 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+
+  i18n: {
+    defaultLocale: 'ro',
+    locales: ['ro', 'en'],
+    localeConfigs: {
+      ro: {
+        label: 'Română',
+        direction: 'ltr',
+      },
+      en: {
+        label: 'English',
+        direction: 'ltr',
+      },
+
+    },
+  },
+
   plugins: [
     '@aldridged/docusaurus-plugin-lunr',
 //     [require.resolve('@cmfcmf/docusaurus-search-local'),{
@@ -32,8 +49,8 @@ const config = {
   title: 'Fizichim',
   tagline: 'Invăţăm prin experimente',
   url: 'https://lucidumitru.github.io',
-  baseUrl: '/fizichim_v2/', // link pentru productie
-/**  baseUrl: '/', // link local */
+/**  baseUrl: '/fizichim_v2/', // link pentru productie */
+  baseUrl: '/', // link local
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -85,6 +102,11 @@ const config = {
           height: 32,
         },
         items: [
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
+
           {
             type: 'doc',
             docId: 'intro',

@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Basics",
+    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Aplicațiile fizicii și chimiei în biologie": {
+    "message": "Aplicațiile fizicii și chimiei în biologie",
+    "description": "The label for category Aplicațiile fizicii și chimiei în biologie in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Fizica în lumea vie": {
+    "message": "Fizica în lumea vie",
+    "description": "The label for category Fizica în lumea vie in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Chimia în lumea vie": {
+    "message": "Chimia în lumea vie",
+    "description": "The label for category Chimia în lumea vie in sidebar tutorialSidebar"
+  }
+}
