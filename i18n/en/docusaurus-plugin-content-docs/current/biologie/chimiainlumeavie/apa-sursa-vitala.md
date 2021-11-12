@@ -324,7 +324,9 @@ Water is a vital element of the human body, which is why proper hydration should
 
 
 <br></br>
-
+<br></br>
+<br></br>
+<br></br>
 
 
 **În 1742 fizicianul suedez Anders Celsius a propus o scară de temperatură pentru termometrul cu mercur, numită scara Celsius care are două repere:**
