@@ -46,8 +46,8 @@ const config = {
   title: 'Fizichim',
   tagline: 'Invăţăm prin experimente',
   url: 'https://lucidumitru.github.io',
-  baseUrl: '/fizichim_v2/', // link pentru productie
-/*  baseUrl: '/', // link local */
+/*  baseUrl: '/fizichim_v2/', // link pentru productie */
+  baseUrl: '/', // link local
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -126,7 +126,11 @@ const config = {
             position: 'right',
           }, */
 
-         {to: '/docs/biologie/fizicainlumeavie/miscarea-si-parghiile', label: 'Aplicațiile Fizicii și Chimiei în Biologie', position: 'left'},
+         {to: '/docs/fizica/clasa6/fizica-clasa6-capitolul1', label: 'Fizică', position: 'left'},
+
+         {to: '/docs/chimie/clasa7/chimie-clasa7-capitolul1', label: 'Chimie', position: 'left'},
+
+         {to: '/docs/biologie/fizicainlumeavie/miscarea-si-parghiile', label: 'Opțional', position: 'left'},
 
         ],
       },
@@ -178,18 +182,18 @@ const config = {
           {
             title: 'Invăţare uşoară',
             items: [
-/*              {
-                label: 'Invăţarea uşoară a fizicii',
-                to: '/docs/fizica/clasa6/fizica-clasa6-capitolul1',
-              }, */
-/*              {
-                label: 'Invăţarea uşoară a chimiei',
-                to: '/docs/chimie/clasa7/chimie-clasa7-capitolul1',
-              }, */
               {
-                label: 'Aplicațiile Fizicii și Chimiei în Biologie',
-                to: '/docs/biologie/fizicainlumeavie/miscarea-si-parghiile',
+                label: 'Fizică',
+                to: '/docs/fizica/clasa6/fizica-clasa6-capitolul1',
               },
+              {
+                label: 'Chimie',
+                to: '/docs/chimie/clasa7/chimie-clasa7-capitolul1',
+              },
+ /*             {
+                label: 'Opțional',
+                to: '/docs/biologie/fizicainlumeavie/miscarea-si-parghiile',
+              }, */
             ],
           },
           {
@@ -218,7 +222,7 @@ const config = {
         ],
 /*        copyright: `Copyright © ${new Date().getFullYear()} Dumitru Elena-Daniela: Fizichim vers2. Built with Docusaurus.`, */
 
-        copyright: `Copyright © ${new Date().getFullYear()} Dumitru Elena-Daniela: Invățarea ușoară a fizicii și chimiei. Donații poți face în contul: RO79 BREL 0005 5015 6588 0100`,
+        copyright: `Copyright © ${new Date().getFullYear()} Dumitru Elena-Daniela: Fizichim. Donații poți face în contul: RO79 BREL 0005 5015 6588 0100`,
 
       },
       prism: {
