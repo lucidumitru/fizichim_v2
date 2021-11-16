@@ -46,8 +46,8 @@ const config = {
   title: 'Fizichim',
   tagline: 'Invăţăm prin experimente',
   url: 'https://lucidumitru.github.io',
-/*  baseUrl: '/fizichim_v2/', // link pentru productie */
-  baseUrl: '/', // link local
+  baseUrl: '/fizichim_v2/', // link pentru productie
+/*  baseUrl: '/', // link local */
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
