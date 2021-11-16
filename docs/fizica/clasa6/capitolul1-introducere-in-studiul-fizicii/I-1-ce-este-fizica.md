@@ -17,6 +17,27 @@ import Video from '@site/src/components/Video'
 
 
 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+
+~~The world is flat.~~ We now know that the world is round.
+
+
+
+<div class="heatMap">
+
+| Everything | in this table | is Centered |  and the table will only take up 70% of the screen width  | 
+| -- | -- | -- | -- |
+| This | is | a | Red Row |
+| This | is | an | Orange Row |
+| This | is | a | Green Row |
+
+</div>
+
+
+
 
 :::important Definiţie
 **Fizica** este o ştiinţă care studiază proprietăţile fizice ale corpurilor şi fenomenele fizice din natură.
