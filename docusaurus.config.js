@@ -126,7 +126,7 @@ const config = {
             position: 'right',
           }, */
 
-         {to: '/docs/fizica/clasa6/fizica-clasa6-capitolul1', label: 'Fizică', position: 'left'},
+         {to: '/docs/fizica/clasa6/capitolul1-introducere-in-studiul-fizicii/I-1-ce-este-fizica', label: 'Fizică', position: 'left'},
 
          {to: '/docs/chimie/clasa7/chimie-clasa7-capitolul1', label: 'Chimie', position: 'left'},
 
@@ -184,7 +184,7 @@ const config = {
             items: [
               {
                 label: 'Fizică',
-                to: '/docs/fizica/clasa6/fizica-clasa6-capitolul1',
+                to: '/docs/fizica/clasa6/capitolul1-introducere-in-studiul-fizicii/I-1-ce-este-fizica',
               },
               {
                 label: 'Chimie',

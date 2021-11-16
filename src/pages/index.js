@@ -18,7 +18,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/fizica/clasa6/fizica-clasa6-capitolul1">
+            to="/docs/fizica/clasa6/capitolul1-introducere-in-studiul-fizicii/I-1-ce-este-fizica">
             Apasă aici ca să înveți fizica️
           </Link>
         </div>
