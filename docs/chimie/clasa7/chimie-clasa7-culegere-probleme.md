@@ -5,6 +5,12 @@ sidebar_position: 8
 # Culegere de probleme
 
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
+
+
+
 import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
 

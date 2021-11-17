@@ -4,6 +4,11 @@ sidebar_position: 6
 
 # VI.Substanțe chimice
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
+
+
 
 
 import Img from '@site/src/components/Img'

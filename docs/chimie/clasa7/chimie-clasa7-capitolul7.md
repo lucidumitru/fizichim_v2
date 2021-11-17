@@ -5,6 +5,11 @@ sidebar_position: 7
 # VII.Calcule pe baza formulei chimice
 
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
+
+
 
 import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'

@@ -28,7 +28,7 @@ function HomepageHeader() {
        <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/chimie/clasa7/chimie-clasa7-capitolul1">
+            to="/docs/chimie/clasa7/capitolul1-chimia-stiinta-a-naturii/I-1-ce-este-chimia">
               Apasă aici ca să înveți chimia️
           </Link>
         </div>

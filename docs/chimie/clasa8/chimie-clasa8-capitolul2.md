@@ -4,6 +4,11 @@ sidebar_position: 2
 
 # II.Transformări chimice ale substanţelor
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
+
+
 
 import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'

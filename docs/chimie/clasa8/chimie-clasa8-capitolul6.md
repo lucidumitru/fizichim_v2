@@ -5,6 +5,9 @@ sidebar_position: 6
 # VI.Reacția de schimb
 
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
 
 
 

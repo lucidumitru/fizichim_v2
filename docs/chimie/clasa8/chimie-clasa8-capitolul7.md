@@ -4,6 +4,9 @@ sidebar_position: 7
 
 # VII.Importanţa chimiei în viaţa noastră
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
 
 
 import Img from '@site/src/components/Img'

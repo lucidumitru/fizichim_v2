@@ -5,6 +5,11 @@ sidebar_position: 5
 # V.Ioni și molecule
 
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
+
+
 
 
 import Img from '@site/src/components/Img'

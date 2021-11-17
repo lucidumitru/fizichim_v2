@@ -47,7 +47,7 @@ const config = {
   tagline: 'Invăţăm prin experimente',
   url: 'https://lucidumitru.github.io',
   baseUrl: '/fizichim_v2/', // link pentru productie
-/*  baseUrl: '/', // link local  */
+/*  baseUrl: '/', // link local */
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -128,7 +128,7 @@ const config = {
 
          {to: '/docs/fizica/clasa6/capitolul1-introducere-in-studiul-fizicii/I-1-ce-este-fizica', label: 'Fizică', position: 'left'},
 
-         {to: '/docs/chimie/clasa7/chimie-clasa7-capitolul1', label: 'Chimie', position: 'left'},
+         {to: '/docs/chimie/clasa7/capitolul1-chimia-stiinta-a-naturii/I-1-ce-este-chimia', label: 'Chimie', position: 'left'},
 
          {to: '/docs/biologie/fizicainlumeavie/miscarea-si-parghiile', label: 'Opțional', position: 'left'},
 
@@ -188,7 +188,7 @@ const config = {
               },
               {
                 label: 'Chimie',
-                to: '/docs/chimie/clasa7/chimie-clasa7-capitolul1',
+                to: '/docs/chimie/clasa7/capitolul1-chimia-stiinta-a-naturii/I-1-ce-este-chimia',
               },
  /*             {
                 label: 'Opțional',

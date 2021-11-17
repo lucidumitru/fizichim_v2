@@ -4,6 +4,9 @@ sidebar_position: 1
 
 # I.Recapitularea chimiei de clasa a VII-a
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
 
 
 

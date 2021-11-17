@@ -4,6 +4,11 @@ sidebar_position: 3
 
 # III.Reacția de combinare
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
+
+
 
 import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
