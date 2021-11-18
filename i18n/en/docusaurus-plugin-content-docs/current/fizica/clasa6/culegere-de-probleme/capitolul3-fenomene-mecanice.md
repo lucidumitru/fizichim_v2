@@ -1940,7 +1940,7 @@ d)	Tramvaiul face o curbă la dreapta.
 
 
 
-:::caution TEST1: Test de autoevaluare - Mișcare și Repaus 
+:::caution Fișă de autoevaluare rezolvată - Mișcare și Repaus 
 
 <br></br>
 
@@ -1955,28 +1955,35 @@ d)	Tramvaiul face o curbă la dreapta.
 **3.67.** În tabel sunt trecute datele mișcării mobilului 1.
 
 
-<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_10_Poza1_Tabel_Exercitiul3.jpg" width="1000" height="108" />
+<Img className="img-responsive4" src="fizica/clasa6/capitolul3/3_1_10_Poza1_Tabel_Exercitiul3_vers2.jpg" width="1000" height="107" />
 
 <br></br>
 <br></br>
 
-a) Determină pozițiile mobilului 2 pentru timpii trecuți în tabel, folosind legea de mișcare a acestuia: x<sub>M2</sub> =3∙t. **-1p**
+a) Determină pozițiile mobilului M<sub>2</sub> pentru timpii trecuți în tabel, folosind legea de mișcare a acestuia: x<sub>M2</sub> = 3 ∙ t. **-1p**
 
-b) Realizează graficele celor două mobile. Folosește ca etaloane: 1 cm : 10 hm și 1cm : 5min. **-1,5p**
+b) Realizează graficul de mișcare al mobilului M<sub>1</sub>. Folosește ca etaloane: 1 cm : 10 m și 1 cm : 5 s. **-1,5p**
 
-c) Determină poziția celor două mobile la timpul de 25 min, pe graficele celor două mobile. **-0,5p**
+c) Determină poziția mobilului M<sub>1</sub> la timpul de 25 min, pe grafic. **-0,5p**
 
-d) Determină viteza medie a celor două mobile în SI. **-1,5p**
+d) Determină viteza medie a mobilului M<sub>1</sub>. **-1p**
 
-e) Determină legea de mișcare a mobilului 1. **-0,5p**
 
 <br></br>
 
-**3.68.** O mașină într-un interval de 6 s de la pornire ajunge la 5 m/s. Cât este accelerația medie a ei? **-1p**
+
+**3.68.** Transformă: v = 300 mm/min în m/s. **-1p**
+
+**3.69.** Un corp este lăsat să cadă liber timp de 6s. Știind accelerația de 10 m/s<sup>2</sup>, află viteza finală a corpului. **-1p**
 
 
 Oficiu **-2p**
 
+
+<br></br>
+
+
+<Video src="https://www.youtube.com/embed/bil4F2iiH8Q" />
 
 
 
@@ -1993,20 +2000,20 @@ Oficiu **-2p**
 
 :::caution TEST2: Test de autoevaluare - Inerție. Masă. Densitate. Tipuri de forțe.
 
-**3.69.** Care minge o oprim mai ușor, una de tenis sau una de baschet, când au aceeași viteză? De ce? **-1p**
+**3.70.** Care minge o oprim mai ușor, una de tenis sau una de baschet, când au aceeași viteză? De ce? **-1p**
 
 <br></br>
 
-**3.70.** Dă două exemple care să arate importanța greutății / forței de frecare / forței elastice. **-1p**
+**3.71.** Dă două exemple care să arate importanța greutății / forței de frecare / forței elastice. **-1p**
 
 <br></br>
 
-**3.71.** Indică unitățile de măsură în SI pentru: greutate, forța de frecare, masă și densitate. **-1p**
+**3.72.** Indică unitățile de măsură în SI pentru: greutate, forța de frecare, masă și densitate. **-1p**
 
 <br></br>
 
 
-**3.72.** Completează următoarele afirmații: **-1p**
+**3.73.** Completează următoarele afirmații: **-1p**
 
 a)	Forța elastică este forța care readuce corpul elastic la …………………...…..
 
@@ -2019,7 +2026,7 @@ d)	Forța de frecare se…………………….mișcării unui corp față de c
 
 <br></br>
 
-**3.73.** Identifică interacțiunile din următoarele afirmații și efectele lor: **-1p**
+**3.74.** Identifică interacțiunile din următoarele afirmații și efectele lor: **-1p**
 
 a)	Un copil lovește cu racheta o minge de tenis.
 
@@ -2033,7 +2040,7 @@ d)	La un semafor mașina frânează.
 <br></br>
 
 
-**3.74.** Un corp de aluminiu are greutatea de 5 N și densitatea de 2,7 g/cm<sup>3</sup>. Se cere:
+**3.75.** Un corp de aluminiu are greutatea de 5 N și densitatea de 2,7 g/cm<sup>3</sup>. Se cere:
 
 a)	Cât cântărește corpul? **-1p**
 
