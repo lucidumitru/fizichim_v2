@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# I.5. Experimentul.
+# I.5. The experiment.
 
 import TOCInline from '@theme/TOCInline';
 
@@ -14,19 +14,18 @@ import Video from '@site/src/components/Video'
 
 
 
-:::important Definiţie
+:::important Definition
 
-**Experimentul** reprezintă o reproducere, cu ajutorul unor aparate speciale, a fenomenului fizic în timpul lecţiei, în condiţiile cele mai favorabile pentru studierea lui. 
+**The experiment** represents a reproduction, with the help of special devices, of the physical phenomenon during the lesson, in the most favorable conditions for its study. 
 
 :::
 
 
 :::important
 
-El serveşte simultan atât ca sursă de cunoştinţe, cât şi ca metodă de învăţare. A experimenta înseamnă a provoca intenţionat anumite fenomene, în condiţii determinate, pentru studierea lor şi a legilor care le guvernează.
+It serves simultaneously both as a source of knowledge and as a method of learning. To experiment means to intentionally provoke certain phenomena, under certain conditions, for their study and the laws that govern them.
 
-Observarea și măsurarea sunt activități fundamentale în fizică. Pornind de la observarea unor fenomene din natură se realizează experimente în laborator, în cadrul cărora se fac măsurători cu scopul de a găsi legile fizice și formulele matematice care guvernează fenomenul studiat.
-
+Observation and measurement are fundamental activities in physics. Starting from the observation of some natural phenomena, laboratory experiments are performed, in which measurements are made in order to find the physical laws and mathematical formulas that govern the studied phenomenon.
 :::
 
 

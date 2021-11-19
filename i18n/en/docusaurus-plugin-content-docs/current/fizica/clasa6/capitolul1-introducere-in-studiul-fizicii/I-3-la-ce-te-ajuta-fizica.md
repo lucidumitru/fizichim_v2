@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# I.3. La ce te ajută fizica ?
+# I.3. What does physics help you with?
 
 import TOCInline from '@theme/TOCInline';
 
@@ -14,15 +14,17 @@ import Video from '@site/src/components/Video'
 
 
 
-:::note Observaţie
+:::note Remark
 
-Fizica te ajută:
-- **să înțelegi fenomenele din jurul tău** (vizibile sau invizibile);
-- **să înveți logic** (nu mecanic, ca un papagal);
-- **să strângi informații** cu ajutorul simțurilor tale sau a unor instrumente;
-- **să tragi anumite concluzii** pe baza informaţiilor culese;
-- **să extragi esențialul** dintr-un anumit material informativ.
- 
-Cu alte cuvinte, **Fizica te face mai deștept**!
+Physics helps you:
+
+- **to understand the phenomena around you** (visible or invisible);
+- **to learn logically** (not mechanically, like a parrot);
+- **to gather information** with the help of your senses or tools;
+- **draw certain conclusions** based on the information gathered;
+- **to extract the essentials** from a certain informative material.
+
+In other words, **Physics makes you smarter**!
+
 :::
 

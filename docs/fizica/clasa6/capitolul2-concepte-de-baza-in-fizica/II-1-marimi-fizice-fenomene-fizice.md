@@ -316,7 +316,7 @@ La nivel internațional s-a convenit să existe un sistem unic de mărimi și un
 <Img className="img-responsive" src="fizica/clasa6/capitolul2/2_11_70_1_UnitateaDeMasuraATimpului.jpg" width="1000" height="60" /> 
 
 
-și se citește **unitatea de măsură pentru timp în Sistemul Internațional este metrul**.
+și se citește **unitatea de măsură pentru timp în Sistemul Internațional este secunda**.
 
 
 

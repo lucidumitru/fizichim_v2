@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# II.1. Mărimi fizice. Fenomene fizice.
+# II.1. Physical parameter. Physical phenomena.
 
 
 import TOCInline from '@theme/TOCInline';
@@ -24,12 +24,13 @@ import Logo2 from '@site/static/fizica/clasa6/capitolul2/2_11_70_2_UnitateaMasur
 
 
 
-## II.1.1. Mărimi fizice.
+## II.1.1. Physical parameter.
 
 
-Natura este formată din corpuri. Banca, tabla, cartea, caietul, pietrele, Pământul, Luna, Soarele, casele, mașinile etc. **toate sunt corpuri**.
- 
-Omul percepe corpurile din natură cu ajutorul simțurilor sale, datorită proprietăților (însușirilor) pe care acestea le au.
+Nature is made up of bodies. The bank, the blackboard, the book, the notebook, the stones, the Earth, the Moon, the Sun, the houses, the cars etc. **they are all bodies.**
+
+The man perceives bodies in nature with the help of his senses, due to the properties (properties) they have.
+
 
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_1_SimturileOmului.jpg" width="1000" height="129" lazy={false} />
@@ -38,23 +39,27 @@ Omul percepe corpurile din natură cu ajutorul simțurilor sale, datorită propr
 <br></br>
 <br></br>
 
-**Vedem** culoarea corpurilor, starea lor de agregare, forma lor, transparența etc.  
 
-**Mirosim** parfumul florilor, laptele, oțetul și recunoaștem anumite substanțe după mirosul lor. 
+**We see** the color of the bodies, their state of aggregation, their shape, transparency, etc.
 
-**Pipăim** obiectele într-o cameră întunecată ca să nu ne lovim sau caloriferul iarna, să simțim căldura dată de el.
+**We smell** the scent of flowers, milk, vinegar and we recognize certain substances by their smell.
 
-**Gustăm** ciocolata dulce, pelinul amar, alimente uneori prea sărate, ardeiul iute.
+**We touch** the objects in a dark room so as not to hit ourselves or the radiator in winter, to feel the heat given by it.
 
-**Auzim** clocotul apei când începe să fiarbă, ciripitul păsărelelor, tic-tacul ceasului.
+**We taste** sweet chocolate, bitter wormwood, sometimes too salty foods, hot peppers.
+
+**We hear** the boiling of water as it begins to boil, the chirping of birds, the ticking of the clock.
+
+
+
 
 <br></br>
 
-### II.1.1.1. Proprietăţi fizice.
+### II.1.1.1. Physical properties.
 
-:::important Definiţie
+:::important Definition
 
-Proprietățile corpurilor ca: forma, culoarea, starea de agregare, mirosul, întinderea spațială, starea de încălzire, se numesc **proprietăți fizice**.
+The properties of bodies such as: shape, color, state of aggregation, smell, spatial extent, state of heating, are called **physical properties.**
 
 :::
 
@@ -62,23 +67,24 @@ Proprietățile corpurilor ca: forma, culoarea, starea de agregare, mirosul, în
 <br></br>
 
 
-### II.1.1.2. Proprietăţi particulare.
+### II.1.1.2. Particular properties.
 
-:::important Definiţie
+:::important Definition
 
-Corpurile se deosebesc unele de altele prin anumite proprietăți, care le sunt caracteristice, numite **proprietăți particulare**.
+Bodies differ from each other by certain properties, which are characteristic of them, called **particular properties.**
 
 :::
 
-#### Exemple:
+**Example:**
 
-#### Apa dintr-un pahar este:
-- lichidă;
-- fără gust (insipidă);
-- fără miros (inodoră);
-- fără culoare (incoloră);
-- transparentă (vedem prin ea);
-- ia forma vasului etc.
+**The water in a cup is:**
+
+- liquid;
+- tasteless (lacking flavour);
+- odorless (having no odor);
+- colorless (uncolored);
+- transparent (we see through it);
+- takes the shape of the vessel etc.
 
 <Img className="img-responsive5" src="fizica/clasa6/capitolul2/2_11_2_PaharCuApa.jpg" width="1000" height="652" />
 
@@ -98,13 +104,15 @@ Corpurile se deosebesc unele de altele prin anumite proprietăți, care le sunt 
 
 
 
-#### Laptele dintr-un pahar este:
-- un lichid;
-- cu gust dulce;
-- miros specific de lapte;
-- culoare albă;
-- opac (nu vedem prin el);
-- ia forma vasului.
+**Milk from a cup is:**
+
+- a liquid;
+- with sweet taste;
+- specific smell of milk;
+- white color;
+- opaque (we do not see through it);
+- takes the shape of the vessel.
+
 
 <Img className="img-responsive5" src="fizica/clasa6/capitolul2/2_11_3_PaharCuLapte.jpg" width="1000" height="541" />
 
@@ -112,52 +120,57 @@ Corpurile se deosebesc unele de altele prin anumite proprietăți, care le sunt 
 <br></br>
 
 
-### II.1.1.3. Proprietăţi generale.
+### II.1.1.3. General Properties.
 
 
-:::important Definiţie
+:::important Definition
 
-Mai există o categorie de proprietăți pe care le au toate corpurile din natură, numite **proprietăți generale**.
+There is another category of properties that all bodies in nature have, called **general properties.**
 
-:::
-
-
-#### Exemple de proprietăţi generale ale corpurilor:
-
-#### II.1.1.3.1. Corpurile sunt formate din substanțe. Acestea pot fi:
-- **substanțe naturale** (oxigen, azot, apă, petrol, cărbuni, diamant, aur, sare etc.);
-- **substanţe artificiale** (sticlă, plastic, benzină, motorină, fier, aluminiu, îngrășăminte chimice etc.). 
-
-
-:::note Observaţie
-
-#### Când denumesc un **corp** mă gândesc la:
-- o anume **formă** şi
-- la un anumit **volum** al său.
-
-#### Când denumesc o **substanţă** mă pot gândi la:
-- diferite **forme** pe care le poate lua aceasta în diferite **corpuri**. 
-
-De exemplu, când spun **cui** denumesc un **corp** (mă gândesc la cunoscuta formă a cuiului), iar când spun **fier** denumesc o **substanţă** (fierul poate lua forma cuiului, dulapului, sârmei etc.). 
-
-De asemenea, **apa** dintr-o sticlă denumeşte un **corp** (forma sticlei), iar **apa** denumeşte o substanţă (apa dintr-o sticlă, dintr-un pahar, dintr-un lac etc.).
 
 
 :::
 
 
+**Examples of the general properties of bodies:**
 
-#### II.1.1.3.2. Corpurile ocupă un spațiu, numit volum.
+#### II.1.1.3.1. Bodies are made up of substances. These include::
+
+- **natural substances** (oxygen, nitrogen, water, oil, coal, diamond, gold, salt etc.);
+- **artificial substances** (glass, plastic, petrol, diesel, iron, aluminum, chemical fertilizers etc.).
 
 
-#### II.1.1.3.3. Corpurile se pot afla în una dintre stările de agregare:
+:::note Remark
 
-- **solidă**: formă proprie și volum propriu;
+**When you call a body I think:**
 
-- **lichidă**: nu are formă proprie (ia forma vasului) și volum propriu (adică 1Litru de apă dintr-o sticlă, ocupă tot 1litru într-o oală de 10L);
+- a certain **shape** and
+- a certain **volume** of it.
 
-- **gazoasă**: nu are formă proprie (ia forma vasului) și nici volum propriu (ocupă tot volumul pus la dispoziție).
+**When naming a substance I can think of:**
 
+- different **forms** that it can take in different **bodies.**
+
+For example, when I say **nail** I call a **body** (I think of the well-known shape of the nail), and when I say **iron** I name a **substance** (iron can take the shape of a nail, cabinet, wire etc.).
+
+Also, **water** in a bottle refers to a **body** (the shape of the bottle), and **water** refers to a substance (water in a bottle, a glass, a lake etc.).
+
+
+
+:::
+
+
+
+#### II.1.1.3.2. Bodies occupy a space called volume.
+
+
+#### II.1.1.3.3. The bodies may be in one of the states of aggregation:
+
+- **solid**: own shape and own volume;
+
+- **liquid**: it does not have its own shape (it takes the shape of a vessel) and its own volume (ie 1 Liter of water from a bottle, it also occupies 1 liter in a 10L pot);
+
+- **gaseous**: it has no shape of its own (it takes the shape of a vessel) nor its own volume (it occupies the entire volume provided).
 
 
 
@@ -169,194 +182,237 @@ De asemenea, **apa** dintr-o sticlă denumeşte un **corp** (forma sticlei), iar
 <br></br>
 
 
-### II.1.1.4. Clasificarea şi ordonarea.
+### II.1.1.4. Classification and ordering.
 
-Pentru a înțelege noțiunea de mărime fizică, mai întâi trebuie să clarificăm două noțiuni, și-anume: **clasificarea** și **ordonarea**.
+To understand the notion of physical size, we must first clarify two notions, namely: **classification** and **ordering**.
 
 
-:::important Definiţie
+:::important Definition
 
-**A clasifica** corpurile unei mulțimi înseamnă a le împărți în grupe (clase), după un anumit criteriu de clasificare (o proprietate comună tuturor corpurilor din acea mulțime).
-
-:::
-
-#### Exemple de clasificări:
-- Elevii unei clase pot fi clasificaţi **după înălţime** în trei grupe: 
-  - Grupa elevilor scunzi;
-  - Grupa elevilor cu înălţime medie şi
-  - Grupa elevilor înalţi. 
-
-- Corpurile din imaginea de la stările de agregare: cub de gheață, apa dintr-o cană și fumul de locomotivă pot fi clasificate, după starea de agregare și obținem trei grupe:
-  - **Solide** (cubul de gheață);
-  - **Lichide** (apa din cană) și
-  - **Gazoase** (fumul de locomotivă). 
- 
- 
- 
-:::important Definiţie
-
-**A ordona** corpurile unei mulțimi înseamnă a le înșirui (aranja) în ordine crescătoare / descrescătoare pe baza unui criteriu de ordonare (o proprietate comună tuturor corpurilor din acea mulțime).
+**To classify** the bodies of a set means to divide them into groups (classes), according to a certain classification criterion (a property common to all the bodies in that set).
 
 :::
 
-#### Exemple de ordonări:
-- La ora de sport, elevii unei clase se ordonează în ordine crescătoare după înălţime.
-- Dacă am dori să ordonăm cele 3 corpuri din imaginea de la stările de agregare: cub de gheață, apa dintr-o cană și fumul de locomotivă nu o vom putea face, întrucât nu vom găsi niciun criteriu de ordonare, fiindcă ele nu au nicio proprietate comună după care am putea să le aranjăm crescător.
-- Privește cele trei pahare cilindrice. După ce criterii ai putea să le ordonezi?  <Img className="img-responsive5" src="fizica/clasa6/capitolul2/2_11_40_1_3Pahare.jpg" width="1000" height="702" />
+**Example of classifications:**
+
+- Students in a class can be classified **by height** into three groups:
+  - Group of short students;
+  - Group of students with average height and
+  - Group of tall students.
+
+- The bodies in the image from the aggregation states: ice cube, water from a cup and locomotive smoke can be classified, according to the state of aggregation, in three groups:
+  - **Solids** (ice cube);
+  - **Liquids** (cup water) and
+  - **Gaseous** (locomotive smoke).
+
+ 
+ 
+:::important Definition
+
+**To order** the bodies of a set means to arrange them in ascending / descending order on the basis of an ordering criterion (a property common to all the bodies in that set).
+
+:::
+
+
+**Examples of ordering:**
+
+- In sports class, students are ordered in ascending order of height.
+- If we wanted to order the 3 bodies in the image from the aggregation states: ice cube, water from a cup and locomotive smoke we will not be able to do it, as we will not find any ordering criteria, because they have no property common after which we could arrange them ascending.
+- Look at the three cylindrical glasses. By what criteria could you order them? <Img className="img-responsive5" src="fizica/clasa6/capitolul2/2_11_40_1_3Pahare.jpg" width="1000" height="702" />
+
 
 <br></br>
 
-  - Dacă le-ai _ordona după înălțime_ (notată cu h) ai obține aranjarea în ordine crescătoare exact ca în imaginea de mai jos: ```h1 < h2 < h3```. <Img className="img-responsive5" src="fizica/clasa6/capitolul2/2_11_40_2_3PahareOrdonateDupaInaltime.jpg" width="1000" height="698" />
+  - If you _order by height_ (denoted by h) you get exact arranging in ascending order as shown below: ```h1 < h2 < h3```. <Img className="img-responsive5" src="fizica/clasa6/capitolul2/2_11_40_2_3PahareOrdonateDupaInaltime.jpg" width="1000" height="698" />
 
 <br></br>
 
-  - Dacă le-ai _ordona după diametru_ (notat cu D) ai obține aranjarea în ordine crescătoare exact ca în imaginea de mai jos: ```D1 < D2 < D3``` (**diametrul unui cerc** reprezintă orice segment care are ca extremități două puncte de pe cerc și trece prin centrul cercului).  <Img className="img-responsive5" src="fizica/clasa6/capitolul2/2_11_40_3_3PahareOrdonateDupaDiametru.jpg" width="1000" height="527" />
+  - If you _order them by diameter_ (denoted by D) you would get the arrangement in ascending order exactly as in the image below: ```D1 < D2 < D3``` (the **diameter of a circle** represents any segment that has as ends two points on the circle and passes through the center of the circle).  <Img className="img-responsive5" src="fizica/clasa6/capitolul2/2_11_40_3_3PahareOrdonateDupaDiametru.jpg" width="1000" height="527" />
 
 <br></br>
 
 
-### II.1.1.5. Clasificarea proprietăţilor fizice după criteriul de ordonare. Proprietățile fizice măsurabile.
-
-În funcţie de criteriul de ordonare există două categorii de proprietăți fizice:
-
-a)	**proprietăți care pot fi criterii de ordonare**, de exemplu: lungimea, înălțimea, diametrul, aria unei suprafețe, volumul unui corp, timpul unui eveniment, temperatura, greutatea etc.
-
-b)	**proprietăți care nu pot fi criterii de ordonare**, de exemplu: starea de agregare, culoarea, mirosul unui corp, gustul unui aliment, forma unui corp. Nu putem face o comparație cantitativă (mai mare sau mai mic) între aceste proprietăți ale corpurilor. Ce relație de mai mare sau mai mic să pun între culoarea roșie și culoarea albastră?
-
-Dintre aceste două categorii, numai proprietăţile fizice care constituie criterii de ordonare sunt **proprietăţi măsurabile.** Ele permit compararea lor cantitativă cu alte proprietăţi de acelaşi fel, adică pot fi măsurate. Acestea sunt proprietăţile care îi interesează pe fizicieni şi care vor fi studiate de tine pe parcursul orelor de fizică. 
+### II.1.1.5. Classification of physical properties according to the ordering criterion. Measurable physical properties.
 
 
-:::important Definiţie
+Depending on the ordering criteria, there are two categories of physical properties:
 
-**Proprietățile fizice măsurabile** ale unui corp sunt acele proprietăți care pot fi măsurate cu ajutorul unui dispozitiv și cu ajutorul cărora corpurile pot fi ordonate.
+a) **properties that can be sorting criteria**, for example: length, height, diameter, surface area, body volume, event time, temperature, weight, etc.
+
+b) **properties that cannot be sorting criteria**, for example: state of aggregation, color, smell of a body, taste of a food, shape of a body. We cannot make a quantitative comparison (greater or lesser) between these properties of bodies. What greater or lesser relationship should I put between red and blue?
+
+Of these two categories, only the physical properties that constitute ordering criteria are **measurable properties**. They allow their quantitative comparison with other properties of the same kind, ie they can be measured. These are the properties that interest physicists and that will be studied by you during physics classes.
+
+
+
+
+:::important Definition
+
+**The measurable physical properties** of a body are those properties that can be measured with a device and with which bodies can be ordered.
+
 
 :::
 
 
 #### Exemple de proprietăți fizice măsurabile:
+
+
+**Examples of measurable physical properties:**
+
+- the length of the table measured with the ruler is 90 cm;
+- the class time measured with the clock is 50 minutes;
+- the volume of glass water measured with graduated vessels is 2 L.
+
+**Measurable physical properties** have been associated with **physical parameters**. E.g :
+
+- The one-way spatial extent has been associated with the physical parameter called **length**.
+- The two-way spatial extent has been associated with the physical parameter called **area**.
+- The spatial extent in all three directions (or the place occupied by the body in space) has been associated with the physical parameter called **volume**.
+- Time interval of an event = **duration**.
+- Intensity of interaction between two bodies = **force**.
+- The heating state of a body = **temperature**.
+
+
  
-- lungimea mesei măsurată cu rigla este de 90 cm;
-- timpul orei de curs măsurat cu ceasul este de 50 de minute;
-- volumul apei din sticlă măsurat cu vase gradate este de 2 L.
-
-
-**Proprietăţilor fizice măsurabile** li s-au asociat **mărimi fizice**.  De exemplu :
-
-- Întinderii spaţiale pe o singură direcţie i s-a asociat mărimea fizică numită **lungime**.
-- Întinderii spaţiale pe două direcţii i s-a asociat mărimea fizică numită **arie**.
-- Întinderii spaţiale pe toate cele trei direcţii (sau locul ocupat de corp în spaţiu) i s-a asociat mărimea fizică numită **volum**.
-- Intervalul de timp al unui eveniment = **durată**.
-- Intensitatea interacţiunii dintre două corpuri = **forţă**.
-- Starea de încălzire a unui corp = **temperatură**.
-
 <br></br>
 
 
-### II.1.1.6. Măsurarea unei mărimi fizice.
-
-**Măsurarea unei mărimi fizice** implică compararea cantitativă a acesteia cu unitatea de măsură (numită și etalon) aleasă.
-
-**Măsurarea unei mărimi fizice** se face cu ajutorul unui instrument de măsură adecvat. 
-
-**Mărimea fizică** şi **unitatea de măsură** corespunzătoare acesteia măsoară aceeaşi **proprietate**. 
-
-#### Exemplu:
-- metrul este o lungime;
-- secunda este un interval de timp etc.
-
-
-**Mărimile fizice** se notează cu **simboluri**. 
-
-#### Exemplu:
  
-- simbolul folosit pentru distanță este d;
-- simbolul pentru arie este A;
-- simbolul pentru timp este t etc.
 
 
-:::important Definiţie
 
-**A măsura o mărime fizică** înseamnă a o compara cu o altă mărime de aceeași natură, aleasă ca unitate de măsură.
+
+
+
+
+
+
+
+### II.1.1.6. Measurement of physical parameter.
+
+
+**The measurement of a physical parameter** involves its quantitative comparison with the chosen unit of measurement (also called standard).
+
+**The measurement of a physical parameter** is done with the help of an appropriate measuring instrument.
+
+**Physical parameter** and the **measurement unit** corresponding to this measure the same property.
+
+
+
+**Example:**
+
+- the meter is a length;
+- the second is a time interval etc.
+
+
+
+**Physical parameters** are denoted by **symbols**.
+
+
+
+**Example:**
+
+- the symbol used for distance is d;
+- the symbol for area is A;
+- the symbol for time is t etc.
+
+
+
+
+
+:::important Definition
+
+**To measure a physical parameter** means to compare it with another quantity of the same nature, chosen as a unit of measurement.
 
 :::
 
-#### Exemplu. Pentru măsurarea lungimii mesei, notată cu l am folosit:
-- Unitatea de măsură (etalon): cm;
-- Instrumentul de măsură: rigla;
-- Procedeul de măsurare: compararea;
-- Rezultatul măsurătorii este: l = 90 cm (lungimea mesei are valoarea numerică 90, iar unitatea de măsură aleasă a fost centimetrul).
+
+
+**Example. To measure the length of the table, denoted by l I used:**
+- Unit of measurement (standard): cm;
+- Measuring instrument: ruler;
+- Measurement procedure: comparison;
+- The result of the measurement is: l = 90 cm (the length of the table has the numerical value 90, and the chosen unit of measurement was the centimeter).
 
 
 
 
-| **Rezultatul măsurătorii unei mărimi fizice se dă sub următoarea formă:**|
+| **The result of measuring a physical quantity is given in the following form:**|
 | ------------------------------------------------------------------------ |
-|**MĂRIME FIZICĂ (SIMBOL) = VALOARE NUMERICĂ ∙ UNITATE DE MĂSURĂ(SIMBOL)** |
+|**PHYSICAL PARAMETER (SYMBOL) = NUMERICAL VALUE ∙ UNIT OF MEASUREMENT (SYMBOL)** |
 
 
 <br></br>
 
-### II.1.1.7. Stabilirea unităților de măsură.
+### II.1.1.7. Setting the unit of measurement.
 
-**Stabilirea unităților** de măsură se face prin convenții internaționale.
 
-La nivel internațional s-a convenit să existe un sistem unic de mărimi și unități de măsură, numit **Sistemul Internațional de mărimi și unități** (abrevierea fiind **SI**). Acesta se aplică în România din 1960.
+**The establishment of units of measurement** is done through international conventions.
 
-#### Pentru a exprima faptul că unitatea de măsură a lungimii în SI este metrul vom scrie: 
+At the international level it was agreed to have a unique system of quantities and units of measurement, called **the International System of Sizes and Units** (the abbreviation being **SI**). It has been applied in Romania since 1960.
+
+**To express that the unit of length in the SI meter we write:**
+
 
 
 <Img className="img-responsive" src="fizica/clasa6/capitolul2/2_11_70_1_UnitateaDeMasuraALungimii.jpg" width="1000" height="60" />
 
 
-și se citește **unitatea de măsură pentru lungime în Sistemul Internațional este metrul**.
 
-#### Pentru a exprima faptul că unitatea de măsură a timpului în SI este secunda vom scrie:
+and it reads **the unit of measurement for length in the International System is the meter**.
+
+
+**To express that the unit of time in SI is the second we write:**
  
  
 <Img className="img-responsive" src="fizica/clasa6/capitolul2/2_11_70_1_UnitateaDeMasuraATimpului.jpg" width="1000" height="60" /> 
 
 
-și se citește **unitatea de măsură pentru timp în Sistemul Internațional este metrul**.
+and it reads **the unit of measurement for time in the International System is the second**.
 
 
 
-:::note Observaţie
+:::note Remark
 
-Pe parcursul studiului fizicii vei învăța multe mărimi fizice și unitățile lor în SI. De asemenea trebuie să cunoști valorile multiplilor și submultiplilor care se aplică tuturor unităților de măsură. Pe lângă aceștia care sunt de bază mai există și alți multiplii mai mari, sau alți submultiplii mai mici. 
+During the study of physics you will learn many physical parameters and their units in SI. You also need to know the values of multiples and submultiples that apply to all units of measurement. In addition to those that are basic, there are other larger multiples, or other smaller submultiples.
+
 
 :::
 
 <br></br>
 
-### II.1.1.8. Multiplii unităților de măsură.
+### II.1.1.8. Multiples of units of measure.
 
-**Multiplii unităților de măsură** - sunt mai mari decât unitatea respectivă de câte ori arată valoarea lor:
+**Multiples of units of measure** - are greater than that unit whenever their value show:
+
+
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_90_1_MultipliiUnitatilorMasura_vers2.jpg" width="1000" height="138" />
 
 <br></br>
 <br></br>
 
-### II.1.1.9. Submultiplii unităților de măsură. 
+### II.1.1.9. Submultiples of units of measurement. 
 
-**Submultiplii unităților de măsură** - sunt mai mici decât unitatea respectivă de câte ori arată valoarea lor:
+**Submultiples of units of measure** - are smaller than that unit whenever their value show:
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_11_90_2_SubmultipliiUnitatilorMasura_vers2.jpg" width="1000" height="247" />
 
 
 
 
-:::note Observaţie
+:::note Remark
 
-Când avem de transformat dintr-un submultiplu sau multiplu în unitatea de bază, copiem valoarea dată, apoi în loc de simbolul multiplului sau submultiplului înlocuim valoarea lui (preferabil sub formă de fracție, la submultiplii) și copiem unitatea rămasă (vezi exemplele din tabel). 
+When we have to transform from a submultiple or multiple to the base unit, we copy the given value, then instead of the symbol of the multiple or submultiple we replace its value (preferably as a fraction, in submultiples) and copy the remaining unit (see the examples in the table) .
 
-Nu uitați, când avem un număr înmulțit cu 10, 100, 1000 ș.a.m.d., se mută virgula numărului spre dreapta peste atâtea cifre câte zerouri avem.
+Remember, when we have a number multiplied by 10, 100, 1000, etc., the comma of the number moves to the right over as many digits as we have zeros.
 
 :::
 
 
 **Exemplu:**
-0,7∙1000, mutăm virgula spre dreapta peste 3 cifre și în locurile libere punem zero.
+0,7 ∙ 1000, we move the comma to the right over 3 digits and in the free places we put zero.
+
 
 <Img className="img-responsive" src="fizica/clasa6/capitolul2/2_11_90_3_MutareVirgulaSpreDreapta.jpg" width="1000" height="119" />
 
@@ -365,16 +421,16 @@ Nu uitați, când avem un număr înmulțit cu 10, 100, 1000 ș.a.m.d., se mută
 <br></br>
 
 
-:::note Observaţie
+:::note Remark
 
-Nu uitați, când avem un număr împărțit la 10, 100, 1000 ș.a.m.d., se mută virgula numărului spre stânga peste atâtea cifre câte zerouri avem.
+Remember, when we have a number divided by 10, 100, 1000, etc., the comma of the number moves to the left over as many digits as we have zeros.
 
 :::
 
 
 
 **Exemplu:**
-43/1000 mutăm virgula spre stânga peste 3 cifre și în locurile libere punem zero.
+43/1000 we move the comma to the left over 3 digits and in the free places we put zero.
 
 <Img className="img-responsive" src="fizica/clasa6/capitolul2/2_11_90_4_MutareVirgulaSpreStanga.jpg" width="1000" height="143" />
 
@@ -382,38 +438,39 @@ Nu uitați, când avem un număr împărțit la 10, 100, 1000 ș.a.m.d., se mut�
 <br></br>
 
 
-### II.1.1.10. Caracterizarea unei mărimi fizice.
+### II.1.1.10. Characterization of a physical parameter.
 
-#### Pentru a caracteriza o mărime fizică trebuie să-i arătăm:
+**To characterize a physical size we need to show it:**
 
-- **Simbolul**
-- **Formula de definiţie sau de calcul** (există mărimi care nu au formulă şi care se determină numai în mod direct prin măsurare cu ajutorul unui instrument de măsură; de exemplu: lungimea, durata, temperatura etc.)
-- **Unităţi de măsură** (cea fundamentală sau în Sistemul Internaţional şi cele derivate);
-- **Instrumente de măsură** (există un număr mic de mărimi pentru care nu există instrumente de măsură; ele se determină numai în mod indirect, prin calcul cu ajutorul unei formule; de exemplu: aria, puterea mecanică, căldura etc.).
+
+- **The symbol**
+- **Definition or calculation formula** (there are parameters that do not have a formula and are only determined directly by measurement using a measuring instrument; for example: length, duration, temperature etc.)
+- **Units of measurement** (the fundamental one or in the International System and the derived ones);
+- **Measuring instruments** (there are few physical parameters for which there are no measuring instruments; they are determined only indirectly by calculation using a formula; for example: area, mechanical strength, heat etc.).
+
 
 <br></br>
 
-## II.1.2. Fenomene fizice.
+## II.1.2. Physical phenomena.
 
-:::important Definiţie
+:::important Definition
 
-**Un fenomen fizic** (proces fizic) se produce atunci când cel puțin una dintre proprietățile fizice ce caracterizează un corp se modifică în timp.
+**A physical phenomenon** (physical process) occurs when at least one of the physical properties that characterize a body changes over time.
+
 
 :::
 
 
-:::note Observaţie
+:::note Reamark
 
-În urma unui fenomen fizic, corpul nu își schimbă substanța. 
+Following a physical phenomenon, the body does not change its substance.
 
 :::
 
 
-:::caution Exemple de fenomene fizice:
+:::caution Example of physical phenomena:
 
-- **Fierberea** apei (apa își schimbă starea de agregare, din lichidă în gazoasă);
-
-
+- **Water boiling** (water changes its state of aggregation, from liquid to gaseous);
 
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_100_2_1_FierbereaApei_vers2.jpg" width="1000" height="358" />
@@ -423,7 +480,8 @@ Nu uitați, când avem un număr împărțit la 10, 100, 1000 ș.a.m.d., se mut�
 <br></br>
 
 
-- **Mișcarea** corpurilor (schimbarea poziției unui corp față de altul);
+
+- **Body movement** (changing the position of one body relative to another);
 
 
 
@@ -435,7 +493,7 @@ Nu uitați, când avem un număr împărțit la 10, 100, 1000 ș.a.m.d., se mut�
 <br></br>
 
 
-- **Topirea** gheții (apa trece din starea solidă în starea lichidă);
+- **Ice melting** (water changes from solid to liquid);
 
 
 
@@ -449,7 +507,7 @@ Nu uitați, când avem un număr împărțit la 10, 100, 1000 ș.a.m.d., se mut�
 
 
 
-- **Îndulcirea** apei prin amestecarea cu zahăr (apa își schimbă gustul);
+- **Sweetening the water** by mixing it with sugar (water changes its taste);
 
 
 
@@ -461,7 +519,7 @@ Nu uitați, când avem un număr împărțit la 10, 100, 1000 ș.a.m.d., se mut�
 <br></br>
 
 
-- **Aprinderea** becului (filamentul se încălzește);
+- **Lighting the bulb** (the filament heats up);
 
 
 
@@ -473,7 +531,7 @@ Nu uitați, când avem un număr împărțit la 10, 100, 1000 ș.a.m.d., se mut�
 <br></br>
 
 
-- **Întinderea** unui arc etc.
+- **Stretching a bow**  etc.
 
 
 
@@ -492,18 +550,18 @@ Nu uitați, când avem un număr împărțit la 10, 100, 1000 ș.a.m.d., se mut�
 <br></br>
 
 
-## II.1.3. Aplică ce ai învăţat în legătură cu Mărimile fizice şi Fenomenele fizice.
+## II.1.3. Apply what you have learned about Physical Parameters and Physical Phenomena
 
-:::caution Temă
+:::caution Homework
 
-**1.** Măsoară cu rigla sau ruleta înălțimea unui dulap și scrie rezultatul măsurătorii tale.
+**1.** Measure the height of a cabinet with a ruler or roulette and write the result of your measurement.
 
 :::
 
 
-:::caution Temă
+:::caution Homework
 
-**2.** Transformă :
+**2.** Transforms:
 
 a)	0,07 km = ? m
 
@@ -515,15 +573,15 @@ c)	0,4 cs = ? s
 
 
 
-:::caution Temă
+:::caution Homework
 
-**3.** Ce fenomene fizice sunt redate în următoarele imagini (completează spațiile libere) ?
-
-
+**3.** What physical phenomena are shown in the following images (fill in the blanks) ?
 
 
 
-#### II.1.3.3.1.  .................. unui balon
+
+
+#### II.1.3.3.1.  .................. of a balloon
 
 <Img className="img-responsive" src="fizica/clasa6/capitolul2/2_133_1_UmflareaUnuiBalon_vers2.jpg" width="1000" height="527" />
 
@@ -533,7 +591,7 @@ c)	0,4 cs = ? s
 
 
 
-#### II.1.3.3.2.  .................. unui arc
+#### II.1.3.3.2.  .................. of a bow
 
 
 <Img className="img-responsive" src="fizica/clasa6/capitolul2/2_133_2_ComprimareaUnuiArc_vers2.jpg" width="1000" height="811" />
@@ -544,7 +602,7 @@ c)	0,4 cs = ? s
 
 
 
-#### II.1.3.3.3.  .................. apei din pahar
+#### II.1.3.3.3.  .................. water from the glass
 
 <Img className="img-responsive" src="fizica/clasa6/capitolul2/2_133_3_ColorareaApeiDinPahar_vers2.jpg" width="1000" height="526" />
 
@@ -553,7 +611,7 @@ c)	0,4 cs = ? s
 <br></br>
 
 
-#### II.1.3.3.4.  .................. dintre doi magneţi
+#### II.1.3.3.4.  .................. between two magnets
 
 <Img className="img-responsive" src="fizica/clasa6/capitolul2/2_133_4_AtractiaDintreDoiMagneti_vers2.jpg" width="1000" height="218"/>
 

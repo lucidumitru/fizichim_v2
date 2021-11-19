@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# I.4. Rolul activităţii practice în învăţarea fizicii.
+# I.4. The role of practical activity in learning physics.
 
 import TOCInline from '@theme/TOCInline';
 
@@ -14,10 +14,10 @@ import Video from '@site/src/components/Video'
 
 
 
-:::note Observaţie
+:::note Remark
 
-**Activitatea practică** se constituie ca unul din principalele instrumente ale cunoaşterii umane şi apare firesc, ca în **învăţarea fizicii, ştiinţă prin excelenţă experimentală**, aceasta să furnizeze cele mai potrivite dovezi pentru fundamentarea teoriei. 
+**Practical activity** is one of the main tools of human knowledge and it is natural that in **learning physics, science par excellence experimental**, it provides the most appropriate evidence to substantiate the theory.
 
-Învăţând fizica prin activitate experimentală va fi modul cel mai provocator şi interactiv, producându-ți o incitare permanentă şi o atitudine faţă de conţinutul lecţiilor, nu doar o asimilare pasivă de cunoştinţe.
+Learning physics through experimental activity will be the most challenging and interactive way, producing a permanent incentive and an attitude towards the content of the lessons, not just a passive assimilation of knowledge.
 
 :::

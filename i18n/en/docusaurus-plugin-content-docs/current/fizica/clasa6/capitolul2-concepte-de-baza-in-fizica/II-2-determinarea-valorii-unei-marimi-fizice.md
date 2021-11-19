@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# II.2. Determinarea valorii unei mărimi fizice.
+# II.2. Determining the value of a physical parameter.
 
 
 import TOCInline from '@theme/TOCInline';
@@ -25,15 +25,15 @@ import Logo2 from '@site/static/fizica/clasa6/capitolul2/2_11_70_2_UnitateaMasur
 
 
 
-## II.2.1. Măsurarea directă a lungimii.
+## II.2.1. Direct measurement of length.
 
 
 
 :::important
 
-#### Caracterizarea lungimii ca mărime fizică:
+#### Characterization of length as physical parameter:
 
-#### •	Simbol: 
+#### •	Symbol: 
 
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_0_SimbolLungime.jpg" width="1000" height="60" />
@@ -41,7 +41,7 @@ import Logo2 from '@site/static/fizica/clasa6/capitolul2/2_11_70_2_UnitateaMasur
 <br></br>
 <br></br>
 
-#### •	Formula de calcul:
+#### •	Calculation formula:
 
 
 
@@ -51,7 +51,7 @@ import Logo2 from '@site/static/fizica/clasa6/capitolul2/2_11_70_2_UnitateaMasur
 <br></br>
 
 
-#### •	Unitatea de măsură în Sistemul Internațional: 
+#### •	Unit of measurement in the International System: 
 
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_0bis_UnitateaDeMasuraALungimii.jpg" width="1000" height="78" />
@@ -60,7 +60,7 @@ import Logo2 from '@site/static/fizica/clasa6/capitolul2/2_11_70_2_UnitateaMasur
 <br></br>
 
 
-#### •	Instrumente de măsură: 
+#### •	Measuring instruments:
 
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_0bis2_InstrumenteDeMasuraALungimii.jpg" width="1000" height="60" />
@@ -68,9 +68,7 @@ import Logo2 from '@site/static/fizica/clasa6/capitolul2/2_11_70_2_UnitateaMasur
 
 :::
 
-
-
-Încă din cele mai vechi timpuri, omul a măsurat diferite lungimi folosind ca unităţi de măsură pasul, cotul, palma etc.
+Since ancient times, man has measured different lengths using as units of measure the step, elbow, palm etc.
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_1_MetrulEtalon_vers3.jpg" width="1000" height="266" />
 
@@ -78,11 +76,11 @@ import Logo2 from '@site/static/fizica/clasa6/capitolul2/2_11_70_2_UnitateaMasur
 
 
 
-#### Instrumente folosite pentru măsurarea lungimilor:
+**Instruments used for measuring lengths:**
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_2_InstrumentePentruMasurareaLungimii.jpg" width="1000" height="185" />
 
-#### Măsurarea distanţei cu rigla:
+**Measuring the distance with the ruler:**
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_3_RegulaDeMasurareAUneiLungimi.jpg" width="1000" height="203" />
 
@@ -90,48 +88,55 @@ import Logo2 from '@site/static/fizica/clasa6/capitolul2/2_11_70_2_UnitateaMasur
 <br></br>
 
 
-**Măsurarea distanțelor pe cale indirectă** se poate face pentru obiectele la care nu putem ajunge, pentru terenurile accidentate, mlăștinoase sau cele acoperite cu apă.
 
-Unele procedee folosite pentru măsurarea indirectă a lungimilor sunt procedee optice, legate de propagarea rectilinie a luminii. Citirea distanțelor se face pe un ecran digital: telemetru (cu rază laser), GPS.
+**Indirect measurement of lengths** can be done for objects we cannot reach, for rugged, swampy or water-covered terrain.
+
+Some methods used for indirect measurement of lengths are optical methods, related to the rectilinear propagation of light. Distance reading is done on a digital screen: rangefinder (laser beam), GPS.
 
 
-### II.2.1.1. Dimensiunile unui corp în spaţiu.
+
+
+### II.2.1.1. The dimensions of a body in space.
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_4_DimensiunileUnuiCorp.jpg" width="1000" height="232" />
 
 
-### II.2.1.2. Eroarea de măsură.
+### II.2.1.2. Measurement error.
 
 
 :::important
 
-**Orice măsurătoare are o precizie limitată** și prin urmare apare noțiunea de **eroare de măsură**. 
+**Any measurement has limited accuracy** and therefore the notion of **measurement error** appears.
+
+ 
 
 :::
 
 
-**Sursele de erori** pot fi:
-- **lipsa de precizie** a instrumentului de măsură;
-- **citirea incorectă** a indicațiilor instrumentului;
-- **lipsa de atenție** sau de îndemânare a celui care face măsurătorile;
-- **condiții de mediu nefavorabile** (iluminare necorespunzătoare, prea cald sau prea frig, stare de disconfort etc.).
+**Sources of error** can be:
 
-Dacă efectuăm măsurători de lungime cu o riglă, precizia măsurătorii nu poate depăși cea mai mică gradație a riglei - respectiv 1mm. 
+- **lack of accuracy** of the measuring instrument;
+- **incorrect reading** of the instrument indications;
+- **the lack of attention or skill** of the person making the measurements;
+- **unfavorable environmental conditions** (inadequate lighting, too hot or too cold, discomfort, etc.).
+
+If we perform length measurements with a ruler, the measurement accuracy cannot exceed the smallest gradation of the ruler - respectively 1mm.
+
+So **the measurement error due to the instrument used** is equal to **the smallest division of the instrument**.
 
 
-Deci **eroarea de măsură datorată instrumentului folosit** este egală cu **cea mai mică diviziune a instrumentului**.
+#### Example:
 
-#### Exemplu:
+At the micrometer the measurement error decreases to 1 micron, ie one millionth of a meter (1 / 1000000).
 
-La micrometru eroarea de măsură scade la 1 micron, adică o milionime metri ( 1/1000000).
+The existence of measurement errors in the case of experimental determinations is normal and in order to obtain a result as close as possible to the true value of the measured quantity , the measurements are repeated several times and the experimental data are processed as I will show you in the next experiment.
 
-Existența unor erori de măsură în cazul determinărilor experimentale este normală și pentru a se obține un rezultat cât mai apropiat de **valoarea adevărată a mărimii măsurate**, se repetă măsurătorile de mai multe ori și se prelucrează datele experimentale așa cum vă voi arăta în următorul experiment.
 
 
 
 :::tip Experiment
 
-**1.** Determinarea lungimii reale a unui corp.
+**1.** Determining the actual length of a body.
 
 :::
 
@@ -141,14 +146,13 @@ Existența unor erori de măsură în cazul determinărilor experimentale este n
 
 
 
-**Materiale necesare:** Riglă gradată, creion.
+**Materials needed:** Graduated ruler, pencil.
 
 
-
-**Descrierea experimentului:** 
-- Pentru a măsura lungimea cărții de fizică folosește rigla gradată.
-- Măsoară de mai multe ori (cel puțin 3 ori) lungimea cărții de fizică, având grijă ca, de fiecare dată, să măsori corect.
-- Completează următorul tabel de date experimentale: tu vei trece determinările tale și vei urma pașii după modelul următor:
+**Description of the experiment:** 
+- Use the graduated ruler to measure the length of the physics book.
+- Measure the length of the physics book several times (at least 3 times), taking care to measure correctly each time.
+- Fill in the following table of experimental data: you will pass your determinations and follow the steps according to the following model:
 
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_5_TabelExperiment1.jpg" width="1000" height="325" />
@@ -157,46 +161,46 @@ Existența unor erori de măsură în cazul determinărilor experimentale este n
 <br></br>
 
 
-- Prelucrează datelor experimentale.
-  - l este lungimea măsurată de minim trei ori. Eu am măsurat-o de patru ori, însă ultima valoare de 20 cm am exclus-o, întrucât este departe de celelalte valori, fiind o măsurare grosolană.
-  - l<sub>m</sub> este lungimea medie, adică media aritmetică a celor trei lungimi măsurate. Dacă apar unele valori mult diferite de celelalte se scriu în tabel, dar se taie, ele reprezentând erori grosolane . Ele nu se iau în calculul lungimii medie . Media aritmetică este egală cu raportul dintre suma tuturor lungimilor și numărul de determinări. 
-  - Δl este eroarea absolută, care se calculează prin diferența lungimii măsurate și a lungimii medie (cea mare minus cea mai mică): Δl = l<sub>1</sub> – l<sub>m</sub> sau Δl = l<sub>m</sub> – l<sub>1</sub>.
-  - Δl<sub>m</sub> este eroarea medie absolută, care se calculează făcând media aritmetică a erorilor absolute.
-- După ce ai completat tabelul cu date experimentale, trebuie să scrii rezultatul determinării, folosind același număr de zecimale pentru toate numerele. Vom scrie valorile cu două zecimale, prin rotunjire.
+- Processes experimental data.
+  - l is the length measured at least three times. I measured it four times, but the last value of 20 cm I excluded it, as it is far from the other values, being a rough measurement.
+  - l<sub>m</sub> is the average length, ie the arithmetic mean of the three measured lengths. If some values appear very different from the others, they are written in the table, but they are cut, they represent gross errors. They are not taken into account in the calculation of the average length. The arithmetic mean is equal to the ratio of the sum of all lengths to the number of determinations. 
+  - Δl is the absolute error, which is calculated by the difference between the measured length and the average length (the largest minus the smallest): Δl = l<sub>1</sub> – l<sub>m</sub> sau Δl = l<sub>m</sub> – l<sub>1</sub>.
+  - Δl<sub>m</sub> is the absolute average error, which is calculated by making the arithmetic mean of the absolute errors.
+- After completing the table with experimental data, you must write the result of the determination, using the same number of decimals for all numbers. We will write the values with two decimal places, by rounding.
 
 
 
 :::important
 
-Rezultatul determinării = valoarea medie ± eroarea medie absolută
+Result of the determination = average value ± absolute average error
 
 l = l<sub>medie</sub> ± Δl<sub>medie</sub>
 
 :::
 
-Pentru exemplul nostru: L = 25,9 cm ± 0,06 cm.
+For our example: L = 25,9 cm ± 0,06 cm.
 
 
-**Concluzia experimentului:** 
-- Acest rezultat indică faptul că valoarea reală este cuprinsă într-un interval: 25,9 cm – 0,06 cm ≤ l ≤ 25,9 cm + 0,06 cm
-- Deci lungimea reală a cărții de fizică este: 25,84 cm ≤ l ≤ 25,96 cm.
+**Conclusion of the experiment:** 
+- This result indicates that the actual value is in a range: 25,9 cm – 0,06 cm ≤ l ≤ 25,9 cm + 0,06 cm
+- So the real length of the physics book is: 25,84 cm ≤ l ≤ 25,96 cm.
 
 
-:::caution Problemă rezolvată
+:::caution Solved problem
 
-**1.** Florin dorește să determine valoarea reală a lungimii mesei din bucătărie. 
+**1.** Florin wants to determine the real value of the length of the kitchen table. 
 
-În urma măsurătorilor a găsit următoarele valori: 1,5 m; 1,46 m; 1,6 m ; 1,2 m; 1,56 m.  Cum a procedat el?
+Following the measurements he found the following values: 1,5 m; 1,46 m; 1,6 m ; 1,2 m; 1,56 m.  How did he proceed?
 
 
-#### Rezolvare:
+**Solution:**
 
-- A calculat l<sub>m</sub> = lungimea medie, adică media aritmetică a celor patru lungimi măsurate. Valoarea 1,2 m este mult diferită, se taie și nu se ia în calculul lungimii medie, fiind o măsurare grosolană.
+- He calculated l<sub>m</sub> = mean length, ie the arithmetic mean of the four measured lengths. The value of 1.2 m is very different, it is cut and not taken into account in the calculation of the average length, being a rough measurement.
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_6_ProblemaModel1_vers2.jpg" width="1000" height="89" />
  
 
-- A calculat pentru fiecare măsurătoare Δl = eroarea absolută, care se calculează prin diferența lungimii măsurate și lungimea medie (cea mare minus cea mai mică); Δl = l<sub>1</sub> – l<sub>m</sub> sau Δl = l<sub>m</sub> – l<sub>1</sub>.
+- Calculated for each measurement Δl = absolute error, which is calculated by the difference between the measured length and the average length (the largest minus the smallest); Δl = l<sub>1</sub> – l<sub>m</sub> sau Δl = l<sub>m</sub> – l<sub>1</sub>.
 
   - Δl<sub>1</sub> = 1,53 - 1,5 = 0,03 m
 
@@ -207,15 +211,15 @@ Pentru exemplul nostru: L = 25,9 cm ± 0,06 cm.
   - Δl<sub>4</sub> = 1,56 - 1,53 = 0,03 m
 
 
-- A calculat Δl<sub>m</sub> = eroarea medie absolută, care se calculează făcând media aritmetică a celor patru erori absolute.
+- He calculated Δl<sub>m</sub> = the absolute mean error, which is calculated by making the arithmetic mean of the four absolute errors.
 
 <Img className="img-responsive4" src="fizica/clasa6/capitolul2/2_210_7_ProblemaModel1_vers2.jpg" width="1000" height="80" />
 
-- Florin a scris rezultatul determinării, folosind același număr de zecimale pentru toate numerele (valorile cu două zecimale, prin rotunjire).
+- Florin wrote the result of the determination, using the same number of decimals for all numbers (values with two decimals, by rounding).
 
-  - #### Rezultatul determinării = valoarea medie ± eroarea medie absolută
+  - **Result of the determination = mean value ± absolute mean error**
 
-  - #### l = l<sub>medie</sub> ± Δl<sub>medie</sub>  = 1,53 m ± 0,05 m.
+  - #### l = l<sub>mean</sub> ± Δl<sub>mean</sub>  = 1,53 m ± 0,05 m.
 
 
 

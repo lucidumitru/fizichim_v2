@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# I.1. Ce este fizica ?
+# I.1. What is physics?
 
 import TOCInline from '@theme/TOCInline';
 
@@ -16,35 +16,38 @@ import Video from '@site/src/components/Video'
 
 
 
-:::important Definiţie
-**Fizica** este o ştiinţă care studiază proprietăţile fizice ale corpurilor şi fenomenele fizice din natură.
+:::important Definition
+**Physics** is a science that studies the physical properties of bodies and the physical phenomena in nature.
 
 :::
 
 
 
-## I.1.1. Scurt istoric al fizicii.
-Cuvântul **fizică** provine din grecescul **physis**, care înseamnă natură.
- 
-Fizica se înrudește cu biologia și chimia, întrucât toate sunt științe ale naturii.
+## I.1.1. Brief history of physics.
 
-Fizica folosește ca limbaj universal matematica. 
+The word **physics** comes from the Greek **physis** , which means nature.
 
-Cunoașterea fizicii ne permite să înțelegem legile naturii, să descifrăm tainele Universului și viitorul nostru ca și civilizație.
+Physics is related to biology and chemistry, as they are all natural sciences.
 
-Zorii fizicii au apărut în vechiul Babilon din Mesopotamia, când filozofia reunea matematica și fizica.
+Physics uses mathematics as a universal language.
 
-**Thales din Milet** a observat că o bucată de chihlimbar (piatră semiprețioasă de culoare galbenă, de origine organică și anume o rășina fosilă) frecată cu o bucată de stofă, capătă proprietatea de a atrage corpuri ușoare (bucățele de măduvă de soc). Acest fenomen, numit electrizare, nimeni nu l-a putut explica. Au trecut mai bine de două milenii până s-a găsit explicația științifică. 
+Knowledge of physics allows us to understand the laws of nature, to decipher the mysteries of the Universe and our future as a civilization.
 
-**Leucip**, **Democrit** și **Epicur** sunt fondatorii teoriei atomiste. Această teorie a fost demonstrată experimental în 1804 de **John Dalton**. Reluând teoria anticilor, el afirma că toate corpurile sunt alcătuite din particule numite atomi, pe care i-a imaginat ca sfere de mase și dimensiuni diferite.
+The dawn of physics appeared in ancient Babylonian Mesopotamia, when philosophy combined mathematics and physics.
 
-Savantul grec **Arhimede** a pus bazele experimentale ale mecanicii fluidelor.
+**Thales of Miletus** noticed that a piece of amber (yellow semiprecious stone, of organic origin, namely a fossil resin) rubbed with a piece of cloth, acquires the property of attracting light bodies (pieces of shock marrow). This phenomenon, called electrification, no one could explain. It took more than two millennia for the scientific explanation to be found.
 
-Termenul “fizică” a fost folosit prima dată de **Aristotel**.
+**Leucippus**, **Democritus** and **Epicurus** are the founders of atomistic theory. This theory was demonstrated experimentally in 1804 by **John Dalton**. Resuming the theory of the ancients, he stated that all bodies are made up of particles called atoms, which he imagined as spheres of different masses and sizes.
 
-**Galileo Galilei** este considerat gânditorul care a deschis o nouă eră în cercetarea științifică (mișcarea obiectelor uniform accelerate, astronomia observațională includ confirmarea prin telescop a fazelor planetei Venus, descoperirea celor mai mari patru sateliți ai lui Jupiter, analiza petelor solare și în tehnologie, îmbunătățind tehnica de construcție a busolelor).
+The Greek scientist **Archimedes** laid the experimental foundations of fluid mechanics.
 
-**Isaac Newton** este savantul aflat la originea teoriilor științifice care vor revoluționa știința, în domeniul opticii, matematicii și în special al mecanicii
+The term "physics" was first used by **Aristotle**.
 
-**Albert Einstein** are multe contribuții în fizică, legate de teoria relativității restrânse (1905), care unesc mecanica de electromagnetism, și de teoria relativității generalizate (1915) care extinde principiul relativității mișcării neuniforme, elaborând o nouă teorie a gravitației.
+**Galileo Galilei** is considered the thinker who opened a new era in scientific research (the movement of uniformly accelerated objects, observational astronomy include telescopic confirmation of the phases of Venus, the discovery of Jupiter's four largest satellites, sunspot analysis and technology, improving the technique construction of compasses).
+
+**Isaac Newton** is the scientist at the origin of the scientific theories that will revolutionize science, in the field of optics, mathematics and especially mechanics.
+
+**Albert Einstein** has many contributions in physics, related to the theory of special relativity (1905), which unites the mechanics of electromagnetism, and the theory of general relativity (1915) which extends the principle of relativity of non-uniform motion, developing a new theory of gravity.
+
+
 

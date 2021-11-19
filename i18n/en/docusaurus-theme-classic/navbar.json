@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "Invăţare uşoară cu fizichim",
+    "message": "Easy learning with fizichim",
     "description": "The title in the navbar"
   },
   "item.label.Tutorial": {
@@ -16,15 +16,15 @@
     "description": "Navbar item with label GitHub"
   },
   "item.label.Fizică": {
-    "message": "Fizică",
+    "message": "Physics",
     "description": "Navbar item with label Fizică"
   },
   "item.label.Chimie": {
-    "message": "Chimie",
+    "message": "Chemistry",
     "description": "Navbar item with label Chimie"
   },
   "item.label.Opțional": {
-    "message": "Opțional",
+    "message": "Optional",
     "description": "Navbar item with label Opțional"
   }
 }

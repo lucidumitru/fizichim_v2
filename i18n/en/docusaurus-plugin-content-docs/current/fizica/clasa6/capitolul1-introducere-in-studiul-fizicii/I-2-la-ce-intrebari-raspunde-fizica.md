@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# I.2. La ce întrebări răspunde fizica ?
+# I.2. What questions does physics answer?
 
 import TOCInline from '@theme/TOCInline';
 
@@ -14,21 +14,22 @@ import Video from '@site/src/components/Video'
 
 
 
-#### Fără să ai pretenția că ești un savant și tot cred că ești curios să afli răspuns la multe enigme observate în viața de zi cu zi :
-
-- Cum circulă apa în natură și de ce vara plouă și iarna ninge? 
-- Cum se formează curcubeul? 
-- De ce când umplem cu apă o sticlă și o punem la congelator, plasticul se deformează?
-- De ce ziua cerul este albastru și noaptea negru?
-- Cât de mare este Universul? 
-- Cât va mai trăi Soarele nostru? 
-- De ce corpurile lăsate libere, cad?
-- Cum pot avioanele să zboare?
-- Cum pot să plutească pe apă navele care sunt foarte grele?
-- Ce este fulgerul și tunetul? 
+**Without you claim that you are a scientist and still think you're curious answer many mysteries observed in everyday life:**
 
 
-Mai ai oare întrebări de pus? Crezi că le-ai epuizat?
+- How does water circulate in nature and why does it rain in summer and snow in winter?
+- How is the rainbow formed?
+- Why does the plastic deform when we fill a bottle with water and put it in the freezer?
+- Why is the sky blue during the day and black at night?
+- How big is the universe?
+- How long will our Sun live?
+- Why do bodies left free fall?
+- How can planes fly?
+- How can very heavy ships float on the water?
+- What is lightning and thunder?
 
-Sigur ai foarte multe întrebări la care aștepți cu nerăbdare răspuns!
+Do you have any more questions? Do you think you've exhausted them?
+
+Surely you have a lot of questions that you are looking forward to answering!
+
 
