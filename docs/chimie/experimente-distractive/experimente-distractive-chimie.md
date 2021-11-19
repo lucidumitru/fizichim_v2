@@ -2,11 +2,20 @@
 sidebar_position: 1
 ---
 
+
+
 # Experimente distractive
 
 
 import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
+
+
+
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
 
 
 

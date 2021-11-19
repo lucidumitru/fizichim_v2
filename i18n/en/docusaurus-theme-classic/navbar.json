@@ -14,5 +14,17 @@
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
+  },
+  "item.label.Fizică": {
+    "message": "Fizică",
+    "description": "Navbar item with label Fizică"
+  },
+  "item.label.Chimie": {
+    "message": "Chimie",
+    "description": "Navbar item with label Chimie"
+  },
+  "item.label.Opțional": {
+    "message": "Opțional",
+    "description": "Navbar item with label Opțional"
   }
 }

@@ -22,5 +22,189 @@
   "sidebar.tutorialSidebar.category.Chimia în lumea vie": {
     "message": "Chimia în lumea vie",
     "description": "The label for category Chimia în lumea vie in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Fizică": {
+    "message": "Fizică",
+    "description": "The label for category Fizică in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Clasa 6": {
+    "message": "Clasa 6",
+    "description": "The label for category Clasa 6 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.I.Introducere în studiul fizicii": {
+    "message": "I.Introducere în studiul fizicii",
+    "description": "The label for category I.Introducere în studiul fizicii in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.II.Concepte de bază în fizică": {
+    "message": "II.Concepte de bază în fizică",
+    "description": "The label for category II.Concepte de bază în fizică in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.III.Fenomene mecanice": {
+    "message": "III.Fenomene mecanice",
+    "description": "The label for category III.Fenomene mecanice in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IV.Fenomene termice": {
+    "message": "IV.Fenomene termice",
+    "description": "The label for category IV.Fenomene termice in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VI.Fenomene electrice și magnetice": {
+    "message": "VI.Fenomene electrice și magnetice",
+    "description": "The label for category VI.Fenomene electrice și magnetice in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VI.Fenomene optice": {
+    "message": "VI.Fenomene optice",
+    "description": "The label for category VI.Fenomene optice in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Culegere de probleme": {
+    "message": "Culegere de probleme",
+    "description": "The label for category Culegere de probleme in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Clasa 7": {
+    "message": "Clasa 7",
+    "description": "The label for category Clasa 7 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.I.Concepte în fizică": {
+    "message": "I.Concepte în fizică",
+    "description": "The label for category I.Concepte în fizică in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.II.Interacțiuni mecanice": {
+    "message": "II.Interacțiuni mecanice",
+    "description": "The label for category II.Interacțiuni mecanice in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.III.Lucrul mecanic. Energia mecanică": {
+    "message": "III.Lucrul mecanic. Energia mecanică",
+    "description": "The label for category III.Lucrul mecanic. Energia mecanică in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IV.Echilibrul corpurilor": {
+    "message": "IV.Echilibrul corpurilor",
+    "description": "The label for category IV.Echilibrul corpurilor in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.V.Statica fluidelor": {
+    "message": "V.Statica fluidelor",
+    "description": "The label for category V.Statica fluidelor in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VI.Unde mecanice - sunetul": {
+    "message": "VI.Unde mecanice - sunetul",
+    "description": "The label for category VI.Unde mecanice - sunetul in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Clasa 8": {
+    "message": "Clasa 8",
+    "description": "The label for category Clasa 8 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.I.Fenomene termice": {
+    "message": "I.Fenomene termice",
+    "description": "The label for category I.Fenomene termice in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.II.Fenomene electrice și magnetice": {
+    "message": "II.Fenomene electrice și magnetice",
+    "description": "The label for category II.Fenomene electrice și magnetice in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.III.Fenomene optice": {
+    "message": "III.Fenomene optice",
+    "description": "The label for category III.Fenomene optice in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IV.Energia și viața": {
+    "message": "IV.Energia și viața",
+    "description": "The label for category IV.Energia și viața in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Norme de protecția muncii": {
+    "message": "Norme de protecția muncii",
+    "description": "The label for category Norme de protecția muncii in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Experimente distractive": {
+    "message": "Experimente distractive",
+    "description": "The label for category Experimente distractive in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bibliografie": {
+    "message": "Bibliografie",
+    "description": "The label for category Bibliografie in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Chimie": {
+    "message": "Chimie",
+    "description": "The label for category Chimie in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.I.Chimia, știință a naturii": {
+    "message": "I.Chimia, știință a naturii",
+    "description": "The label for category I.Chimia, știință a naturii in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.II.Substanțe, amestecuri de substanțe": {
+    "message": "II.Substanțe, amestecuri de substanțe",
+    "description": "The label for category II.Substanțe, amestecuri de substanțe in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.III.Atomul": {
+    "message": "III.Atomul",
+    "description": "The label for category III.Atomul in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IV.Tabelul periodic al elementelor": {
+    "message": "IV.Tabelul periodic al elementelor",
+    "description": "The label for category IV.Tabelul periodic al elementelor in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.V.Ioni și molecule": {
+    "message": "V.Ioni și molecule",
+    "description": "The label for category V.Ioni și molecule in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VI.Substanțe chimice": {
+    "message": "VI.Substanțe chimice",
+    "description": "The label for category VI.Substanțe chimice in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VII.Calcule pe baza formulei chimice": {
+    "message": "VII.Calcule pe baza formulei chimice",
+    "description": "The label for category VII.Calcule pe baza formulei chimice in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.I.Recapitularea chimiei de clasa a VII-a": {
+    "message": "I.Recapitularea chimiei de clasa a VII-a",
+    "description": "The label for category I.Recapitularea chimiei de clasa a VII-a in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.II.Transformări chimice ale substanțelor": {
+    "message": "II.Transformări chimice ale substanțelor",
+    "description": "The label for category II.Transformări chimice ale substanțelor in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.III.Reacția de combinare": {
+    "message": "III.Reacția de combinare",
+    "description": "The label for category III.Reacția de combinare in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IV.Reacția de descompunere": {
+    "message": "IV.Reacția de descompunere",
+    "description": "The label for category IV.Reacția de descompunere in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.V.Reacția de substituție": {
+    "message": "V.Reacția de substituție",
+    "description": "The label for category V.Reacția de substituție in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VI.Reacția de schimb": {
+    "message": "VI.Reacția de schimb",
+    "description": "The label for category VI.Reacția de schimb in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VII.Importanța chimiei în viața noastră": {
+    "message": "VII.Importanța chimiei în viața noastră",
+    "description": "The label for category VII.Importanța chimiei în viața noastră in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.I. Mișcarea și părghiile": {
+    "message": "I. Mișcarea și părghiile",
+    "description": "The label for category I. Mișcarea și părghiile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.II. Respirația și presiunea": {
+    "message": "II. Respirația și presiunea",
+    "description": "The label for category II. Respirația și presiunea in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.III. Acustica și mecanismul auzului": {
+    "message": "III. Acustica și mecanismul auzului",
+    "description": "The label for category III. Acustica și mecanismul auzului in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IV. Ochiul și defectele de vedere": {
+    "message": "IV. Ochiul și defectele de vedere",
+    "description": "The label for category IV. Ochiul și defectele de vedere in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.I. Aerul, sursă vitală": {
+    "message": "I. Aerul, sursă vitală",
+    "description": "The label for category I. Aerul, sursă vitală in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.II. Apa, sursă vitală": {
+    "message": "II. Apa, sursă vitală",
+    "description": "The label for category II. Apa, sursă vitală in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.III. Sănătatea corpului omenesc": {
+    "message": "III. Sănătatea corpului omenesc",
+    "description": "The label for category III. Sănătatea corpului omenesc in sidebar tutorialSidebar"
   }
 }

@@ -130,7 +130,7 @@ const config = {
 
          {to: '/docs/chimie/clasa7/capitolul1-chimia-stiinta-a-naturii/I-1-ce-este-chimia', label: 'Chimie', position: 'left'},
 
-         {to: '/docs/biologie/fizicainlumeavie/miscarea-si-parghiile', label: 'Opțional', position: 'left'},
+         {to: '/docs/biologie/fizicainlumeavie/I-miscarea-si-parghiile/I-1-parghia-un-mecanism-simplu', label: 'Opțional', position: 'left'},
 
         ],
       },
@@ -192,7 +192,7 @@ const config = {
               },
  /*             {
                 label: 'Opțional',
-                to: '/docs/biologie/fizicainlumeavie/miscarea-si-parghiile',
+                to: '/docs/biologie/fizicainlumeavie/I-miscarea-si-parghiile',
               }, */
             ],
           },
